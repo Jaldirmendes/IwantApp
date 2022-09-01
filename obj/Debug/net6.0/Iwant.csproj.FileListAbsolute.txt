@@ -7,7 +7,6 @@
 /Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Iwant.pdb
 /Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
 /Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
 /Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
 /Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Microsoft.OpenApi.dll
 /Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
@@ -29,3 +28,9 @@
 /Users/jalmendes/Documents/estudos/dotnet/Iwant/obj/Debug/net6.0/Iwant.pdb
 /Users/jalmendes/Documents/estudos/dotnet/Iwant/obj/Debug/net6.0/Iwant.genruntimeconfig.cache
 /Users/jalmendes/Documents/estudos/dotnet/Iwant/obj/Debug/net6.0/ref/Iwant.dll
+/Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Humanizer.dll
+/Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Npgsql.dll
+/Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/jalmendes/Documents/estudos/dotnet/Iwant/bin/Debug/net6.0/Flunt.dll
