@@ -17,11 +17,13 @@ public class CategoryPut
 
         if (category == null)
             return Results.NotFound();
+        
+        category.editInfo(request.Name, request.Active);
 
-        category.Name = request.Name;
-        category.Active = request.Active;
-
+        if (!category.IsValid)
+            return Results.ValidationProblem(category.Notifications.ConvertToProblemDetails());
         context.SaveChanges();
+
         return Results.Ok();
     }
 }
