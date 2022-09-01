@@ -1,3 +1,4 @@
+using Flunt.Notifications;
 using Iwant.Domain.Products;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,6 +13,8 @@ public class ApplicationDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
+        builder.Ignore<Notification>();
+        
         builder.Entity<Product>()
         .Property(p => p.Name).IsRequired();
         
@@ -20,12 +23,6 @@ public class ApplicationDbContext : DbContext
 
         builder.Entity<Category>()
         .Property(p => p.Name).IsRequired();
-    }
-
-    protected override void ConfigureConventions(ModelConfigurationBuilder configuration)
-    {
-        configuration.Properties<string>()
-        .HaveMaxLength(100);
     }
 
 

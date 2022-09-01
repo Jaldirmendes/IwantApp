@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LE6NYeBHF//Yqb18g3WM1meHcfJPRMMPk4Nd4puMHW7K2aO+cEpYa4Eju3WQFKXeBr13sODCEyUveQOUpp1IJw==",
+  "dgSpecHash": "HU3py8Cm5cOI1J236rr5tkRBuP23ew6EAkvjuZ6Q5+IjGRbW4eLA1MhGzAWUvFK4mgSsjSee3kXHgClZyOm6Aw==",
   "success": true,
   "projectFilePath": "/Users/jalmendes/Documents/estudos/dotnet/Iwant/Iwant.csproj",
   "expectedPackageFiles": [
+    "/Users/jalmendes/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
     "/Users/jalmendes/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/jalmendes/.nuget/packages/microsoft.entityframeworkcore/6.0.8/microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "/Users/jalmendes/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.8/microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",
     "/Users/jalmendes/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.8/microsoft.entityframeworkcore.analyzers.6.0.8.nupkg.sha512",
     "/Users/jalmendes/.nuget/packages/microsoft.entityframeworkcore.design/6.0.8/microsoft.entityframeworkcore.design.6.0.8.nupkg.sha512",
-    "/Users/jalmendes/.nuget/packages/microsoft.entityframeworkcore.inmemory/6.0.8/microsoft.entityframeworkcore.inmemory.6.0.8.nupkg.sha512",
     "/Users/jalmendes/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.8/microsoft.entityframeworkcore.relational.6.0.8.nupkg.sha512",
     "/Users/jalmendes/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/jalmendes/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
